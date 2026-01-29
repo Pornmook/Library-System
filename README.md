@@ -7,5 +7,10 @@ Due to GitHub file size limitations, the complete source code and related files
 are stored externally.
 
 ## Source Code
-The full project (source code, database, resources, and robot framework) can be accessed here:
+The full project package includes:
+- Application source code
+- Database files
+- Test resources
+- Robot Framework automation scripts
+Access everything here:
 https://drive.google.com/drive/folders/1qh6d3MsjRrzloVpdsPqM7iWasO3a5ZdQ?usp=sharing
